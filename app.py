@@ -15,7 +15,7 @@ from store import ContextStore
 APP_VERSION = "1.0.0"
 TEAM_NAME = "Tushar Joshi"
 TEAM_MEMBERS = ["Tushar Joshi"]
-CONTACT_EMAIL = "replace-with-your-email@example.com"
+CONTACT_EMAIL = "jtushar2005@gmail.com"
 
 app = FastAPI(
     title="VERA Merchant AI Bot",
